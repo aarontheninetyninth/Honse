@@ -31,14 +31,7 @@ Honsecoin Core is an open source and community driven software. The development
 process is open and publicly visible; anyone can see, discuss and work on the
 software.
 
-Main development resources:
-
-* [GitHub Projects](https://github.com/dogecoin/dogecoin/projects) is used to
-  follow planned and in-progress work for upcoming releases.
-* [GitHub Discussion](https://github.com/dogecoin/dogecoin/discussions) is used
-  to discuss features, planned and unplanned, related to both the development of
-  the Dogecoin Core software, the underlying protocols and the DOGE asset.  
-* [Honse subreddit](https://www.reddit.com/r/honse/)
+[Honse subreddit](https://www.reddit.com/r/honse/)
 
 ### Version strategy
 Version numbers are following ```major.minor.patch``` semantics.
@@ -57,35 +50,25 @@ There are 3 types of branches in this repository:
 
 ## Contributing 🤝
 
-If you find a bug or experience issues with this software, please report it
-using the [issue system](https://github.com/dogecoin/dogecoin/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5Bbug%5D+).
-
 Please see [the contribution guide](CONTRIBUTING.md) to see how you can
-participate in the development of Dogecoin Core. There are often
-[topics seeking help](https://github.com/dogecoin/dogecoin/labels/help%20wanted)
-where your contributions will have high impact and get very appreciation. wow.
+participate in the development of Honsecoin Core.
 
 ## Communities 🚀🍾
 
 You can join the communities on different social media.
 To see what's going on, meet people & discuss, find the latest meme, learn
-about Dogecoin, give or ask for help, to share your project.
+about Honsecoin, give or ask for help, to share your project.
 
 Here are some places to visit:
 
-* [Dogecoin subreddit](https://www.reddit.com/r/dogecoin/)
-* [Dogeducation subreddit](https://www.reddit.com/r/dogeducation/)
-* [Discord](https://discord.gg/dogecoin)
-* [Dogecoin Twitter](https://twitter.com/dogecoin)
+* [Dogecoin subreddit](https://www.reddit.com/r/honse/)
 
 ## Very Much Frequently Asked Questions ❓
 
 Do you have a question regarding Hoecoin? An answer is perhaps already in the
-[FAQ](doc/FAQ.md) or the
-[Q&A section](https://github.com/dogecoin/dogecoin/discussions/categories/q-a)
-of the discussion board!
+[FAQ](doc/FAQ.md)
 
 ## License - Much license ⚖️
-Dogecoin Core is released under the terms of the MIT license. See
+Honsecoin Core is released under the terms of the MIT license. See
 [COPYING](COPYING) for more information or see
 [opensource.org](https://opensource.org/licenses/MIT)
