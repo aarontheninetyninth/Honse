@@ -38,7 +38,7 @@ Main development resources:
 * [GitHub Discussion](https://github.com/dogecoin/dogecoin/discussions) is used
   to discuss features, planned and unplanned, related to both the development of
   the Dogecoin Core software, the underlying protocols and the DOGE asset.  
-* [Dogecoindev subreddit](https://www.reddit.com/r/dogecoindev/)
+* [Honse subreddit](https://www.reddit.com/r/honse/)
 
 ### Version strategy
 Version numbers are following ```major.minor.patch``` semantics.
