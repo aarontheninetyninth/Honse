@@ -80,7 +80,7 @@ Here are some places to visit:
 
 ## Very Much Frequently Asked Questions ❓
 
-Do you have a question regarding Dogecoin? An answer is perhaps already in the
+Do you have a question regarding Hoecoin? An answer is perhaps already in the
 [FAQ](doc/FAQ.md) or the
 [Q&A section](https://github.com/dogecoin/dogecoin/discussions/categories/q-a)
 of the discussion board!
